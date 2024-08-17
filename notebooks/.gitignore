@@ -1,0 +1,7 @@
+data/*
+train_spans/*
+wandb/*
+glove*
+train_spans/*
+test_spans/*
+*.pkl
